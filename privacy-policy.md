@@ -1,6 +1,6 @@
 # Privacy Policy for Resume Match AI
 
-_Last Updated: [Enter Date]_
+_Last Updated: 02/04/2025
 
 Resume Match AI is a Chrome extension designed to help job seekers analyze their resumes against job descriptions. Your privacy is important to us, and we do not collect or store any personal data. Below, we outline what data we access and how it is used.
 
@@ -25,4 +25,4 @@ This Privacy Policy may be updated periodically. Any changes will be reflected o
 
 ## **5. Contact**
 If you have any questions regarding this Privacy Policy, please contact us at:  
-📩 **[Your Email Address]**
+📩 **nitishahuja971@gmail.com**
